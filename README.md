@@ -1,46 +1,46 @@
 # Challenge-Amigo-Secreto
-#  Amigo Secreto
+ Descripción
+Aplicación web para organizar un sorteo de Amigo Secreto de forma sencilla. Ideal para eventos familiares, escolares o de oficina.  
+Permite agregar participantes, evitar duplicados y obtener resultados aleatorios.
 
-Una aplicación web desarrollada con JavaScript puro para organizar sorteos de Amigo Secreto de forma sencilla y rápida. Ideal para reuniones familiares, fiestas con amigos o eventos en la oficina.
 
+Tecnologías usadas
+– HTML  
+– CSS  
+– JavaScript
 
----
+Instalación / Requisitos
+– Clonar el repositorio:  https://github.com/Jazmin777/Challenge-Amigo-Secreto/edit/main/README.md
+– Abrir index.html en un navegador   
+– Usar Live Server en VS Code para recargas automáticas
+
+ Ejecución
+1-Abre el archivo index.html en tu navegador.
+
+2-En el campo de texto, escribe el nombre de un participante y presiona Agregar.
+
+3-Repite el proceso para cada persona.
+
+4-Haz clic en Sortear amigo para obtener los resultados.
 
 Funcionalidades
+– Agregar participantes  
+– Eliminar participantes  
+– Evitar duplicados  
+– Sortear amigos de forma aleatoria  
+– Interfaz responsiva y amigable
 
-- Agregar participantes con solo escribir el nombre.
-- Eliminar nombres antes de sortear si hay errores.
-- Evita nombres duplicados.
-- Sorteo aleatorio justo y directo.
--  Muestra quién es el amigo secreto de cada persona.
--  Interfaz clara, amigable y responsiva.
+Consejos y soluciones comunes
+Problema	Posible solución
+1-La página no carga correctamente:	Probar en otro navegador o limpiar la caché
+2-Las imágenes no se ven:	Verificar que la carpeta assets esté en la raíz y que las rutas sean correctas
+3-No se agregan nombres:	Asegurarse de que el campo de texto no esté vacío y no sea un duplicado
 
----
+ Licencia
+–Este proyecto es de uso libre para fines educativos y personales.
 
- Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript (sin frameworks)
 
----
-
- ¿Cómo usar la aplicación?
-
- 1. Clonar el repositorio
-    
-
-```bash
-git clone https://github.com/Jazmin777/Challenge-Amigo-Secreto.git
-cd Challenge-Amigo-Secreto
-
-# Opción 1: Doble clic en index.html
-# Opción 2: Abrir en VS Code y usar Live Server
-
----
-
-¿Quieres que lo traduzca también al inglés o agregar una sección para usuarios móviles?  
-Y si luego haces un video mostrando el funcionamiento, puedo ayudarte a insertarlo también en el README. ¿Te gustaría?
 
 
 
