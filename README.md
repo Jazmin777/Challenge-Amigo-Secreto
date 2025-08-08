@@ -30,20 +30,19 @@ Funcionalidades
  ¿Cómo usar la aplicación?
 
  1. Clonar el repositorio
+    
 
 ```bash
 git clone https://github.com/Jazmin777/Challenge-Amigo-Secreto.git
 cd Challenge-Amigo-Secreto
 
-Funcionalidades
-Agregar participantes fácilmente.
+# Opción 1: Doble clic en index.html
+# Opción 2: Abrir en VS Code y usar Live Server
 
-Eliminar nombres si hay errores.
+---
 
-Validación para evitar nombres duplicados.
+¿Quieres que lo traduzca también al inglés o agregar una sección para usuarios móviles?  
+Y si luego haces un video mostrando el funcionamiento, puedo ayudarte a insertarlo también en el README. ¿Te gustaría?
 
-Botón para realizar el sorteo del Amigo Secreto de forma aleatoria.
 
-Resultado visible inmediatamente después del sorteo.
 
-Interfaz limpia y responsiva.
