@@ -5,6 +5,7 @@ Una aplicación web desarrollada con JavaScript puro para organizar sorteos de A
 
 ![Vista principal de la app](./assets/captura-principal.png)
 
+
 ---
 
 Funcionalidades
