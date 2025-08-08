@@ -3,8 +3,6 @@
 
 Una aplicación web desarrollada con JavaScript puro para organizar sorteos de Amigo Secreto de forma sencilla y rápida. Ideal para reuniones familiares, fiestas con amigos o eventos en la oficina.
 
-![Vista principal de la app](./assets/captura-principal.png)
-
 
 ---
 
